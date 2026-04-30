@@ -9499,9 +9499,12 @@ The Active Data is updated as follows:
 
 The current Sky Direct Exposures are:
 
-- Treasury Bills - Investments by Grove in BUIDL, JTRSY, and USTB on Ethereum Mainnet
-- Peg Stability Modules - Investments by Spark or Grove in USDC in Peg Stability Modules on blockchains other than Ethereum Mainnet
-- Curve Pools - Investments by Spark in USDT in sUSDS/USDT Curve pools
+| Asset | Start Date |
+|---|---|
+| Treasury Bills - Investments by Grove in BUIDL, JTRSY, and USTB on Ethereum Mainnet | 2025-10-30 |
+| Peg Stability Modules - Investments by Spark or Grove in USDC in Peg Stability Modules on blockchains other than Ethereum Mainnet | 2025-11-13 |
+| Curve Pools - Investments by Spark in USDT in sUSDS/USDT Curve pools | 2025-11-13 |
+
 
 ###### A.2.2.9.1.1.1.1.3 - Parameters For Sky Direct Exposures [Core]  <!-- UUID: cbd64e6c-547b-4b8d-a0cb-b605f780aef1 -->
 
