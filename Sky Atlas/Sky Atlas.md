@@ -9505,6 +9505,22 @@ The current Sky Direct Exposures are:
 | Peg Stability Modules - Investments by Spark or Grove in USDC in Peg Stability Modules on blockchains other than Ethereum Mainnet | 2025-11-13 |
 | Curve Pools - Investments by Spark in USDT in sUSDS/USDT Curve pools | 2025-11-13 |
 
+###### A.2.2.9.1.1.1.1.3 - Historical Sky Direct Exposures [Active Data Controller]  <!-- UUID: 16254715-29f7-4de1-90c0-d1b8425d3efc -->
+
+The list of historical Sky Direct Exposures is defined as Active Data in [A.2.2.9.1.1.1.1.3.0.6.1 - List Of Historical Sky Direct Exposures](693bae15-0773-4926-8cb8-98b08b1de407).
+
+The Active Data is updated as follows:
+
+- The Responsile Party is the Core Facilitator.
+- The Update Process must follow the protocol for 'Direct Edit'.
+
+###### A.2.2.9.1.1.1.1.3.0.6.1 - List of Historical Sky Direct Exposures [Active Data]  <!-- UUID: 693bae15-0773-4926-8cb8-98b08b1de407 -->
+
+The historical Sky Direct Exposures are:
+
+| Asset | Start Date | End Date |
+|---|---|---|
+| Collateralized Loan Obligations - Investments by Grove in JAAA on Ethereum Mainnet up to 325M USD | 2025-10-23 | 2026-03-12 |
 
 ###### A.2.2.9.1.1.1.1.3 - Parameters For Sky Direct Exposures [Core]  <!-- UUID: cbd64e6c-547b-4b8d-a0cb-b605f780aef1 -->
 
